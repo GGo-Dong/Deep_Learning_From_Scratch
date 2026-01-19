@@ -1,6 +1,6 @@
 import numpy as np
 
-def And(x1, x2):
+def AND(x1, x2):
     x = np.array([x1, x2])
     w = np.array([0.5, 0.5])
     b = -0.7
